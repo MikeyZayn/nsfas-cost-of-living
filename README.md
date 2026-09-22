@@ -165,5 +165,3 @@ nsfas-cost-of-living/
 
 BSc Computer Science & Statistics, University of Zululand
 GitHub: [MikeyZayn](https://github.com/MikeyZayn)
-
-*This is project 2 of a build-till-I-land-a-job series documenting data science projects built during my final year of study.*
